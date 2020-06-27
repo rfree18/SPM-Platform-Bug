@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Lasso",
+        "repositoryURL": "git@github.com:ww-tech/lasso.git",
+        "state": {
+          "branch": null,
+          "revision": "fbdd56ac3d0cc67fbefa8bd137e438bcceb0c82f",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
